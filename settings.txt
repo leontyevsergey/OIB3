@@ -1,0 +1,6 @@
+initial_file: C:\Users\User\PycharmProjects\OIB3\file.txt
+encrypted_file: C:\Users\User\PycharmProjects\OIB3\encr_file.txt
+decrypted_file: C:\Users\User\PycharmProjects\OIB3\decr_file.txt
+symmetric_key: C:\Users\User\PycharmProjects\OIB3\sym_key.txt
+public_key: C:\Users\User\PycharmProjects\OIB3\public_key.pem
+secret_key: C:\Users\User\PycharmProjects\OIB3\private_key.pem
